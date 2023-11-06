@@ -1,0 +1,743 @@
+{
+	"info": {
+		"_postman_id": "051ad4b8-b4c1-4748-8c75-2c016136da6b",
+		"name": "E-Commerce-Web-Scrapping",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "23739084"
+	},
+	"item": [
+		{
+			"name": "scrapy spider",
+			"item": [
+				{
+					"name": "modaoperandi",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.modaoperandi.com/women/p/rosie-assoulin/sequin-high-waisted-flared-pants/581887\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "shopbop",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.shopbop.com/georgina-dress-rixo/vp/v=1/1535511117.htm\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "saks",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.saksfifthavenue.com/product/valentino-mixed-media-chain-jumpsuit-0400017330172.html\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "matchesfashion",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.matchesfashion.com/products/1017-ALYX-9SM-Tricon-buckled-cotton-track-pants-1504754\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "net_a_porter",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.net-a-porter.com/en-in/shop/product/sergio-rossi/shoes/high-heel/plus-area-crystal-embellished-denim-pumps/1647597308792351\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "blue_mercury",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://bluemercury.com/collections/skin-care/products/skinceuticals-silymarin-cf?L1=skin-care&L1Name=Skincare\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "intermixonline",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.intermixonline.com/Wolford/Turtleneck%20Thong%20Bodysuit/76048-WHITE.html?dwvar_76048-WHITE_colorname=900&cgid=clothing&webcat=clothing#webcat=clothing&start=1&cgid=clothing\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "mytheresa",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.mytheresa.com/int/en/women/zimmermann-intarsia-cotton-terry-kaftan-green-p00753328\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "poshmark",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://poshmark.com/listing/Nike-Daybreak-613eaddc29e6988df03c80e7\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "thereformation",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.thereformation.com/products/davie-linen-dress/1312566BLK.html\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "violetgrey",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.violetgrey.com/en-us/shopping/maifanshi-makeup-color-base-18874135\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "selenium scrapers",
+			"item": [
+				{
+					"name": "artizia",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.aritzia.com/intl/en/product/tnabutter%E2%84%A2-limit-zip-longsleeve/104196.html?dwvar_104196_color=30226\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "farfetch",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.farfetch.com/in/shopping/women/amina-muaddi-begum-crystal-earrings-item-15469020.aspx?storeid=9359\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "h&m",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www2.hm.com/en_us/productpage.1161628001.html\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},{
+					"name": "luisaviaroma",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.luisaviaroma.com/en-us/p/egonlab/men/78I-YC3010?ColorId=U0FORA2&lvrid=_p_dYC3_gm\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},{
+					"name": "nordstorm",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.nordstrom.com/s/relaxed-waist-wide-leg-trousers/6668767?origin=coordinating-6668767-0-3-HP_STORY.HP_STORY_PATH_SUB_1-recbot-browse_results_interleave&recs_placement=HP_STORY.HP_STORY_PATH_SUB-1&recs_strategy=browse_results_interleave&recs_source=recbot&recs_page_type=home&recs_seed=0&color=BLACK\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},{
+					"name": "outnet",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.theoutnet.com/en-us/shop/product/bottega-veneta/dresses/midi-dress/cotton-midi-shirt-dress/27086482323924728\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "revolve",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.revolve.com/8-other-reasons-spin-earrings-in-ivory/dp/8OTH-WL1698/?d=Womens&hsclk18466=3&hspos=2&navsrc=\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "ssense",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.ssense.com/en-us/women/product/sacai/beige-and-navy-paneled-trench-coat/14333861\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "sephora",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.sephora.com/product/ilia-super-serum-skin-tint-spf-40-P455418?skuId=2333607&icid2=products%20grid:p455418:product\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "uniqlo",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.uniqlo.com/us/en/products/E422992-000/00?colorDisplayCode=54&sizeDisplayCode=003\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "zara",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"url\": \"https://www.zara.com/us/en/buckled-flat-biker-ankle-boots-p11128210.html?v1=276627150&v2=2291305\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://127.0.0.1:5000/api/get/product_details",
+							"protocol": "http",
+							"host": [
+								"127",
+								"0",
+								"0",
+								"1"
+							],
+							"port": "5000",
+							"path": [
+								"api",
+								"get",
+								"product_details"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

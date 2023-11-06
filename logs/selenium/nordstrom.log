@@ -1,0 +1,181 @@
+2023-04-19 11:15:04,854 INFO Unable to locate 'BRAND NAME' with 'css' selector 'a.WMXkS span' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:15:04,891 INFO Unable to locate 'PRODUCT NAME' with 'css' selector '//div[@id='product-page-product-title-lockup']//h1[@class='dls-t8nrr7']' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:15:04,913 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector '.PLdP6.GmKV9.KCp6h.IHuaj.QkVyF .ggbBg.y3xFi .qHz0a.EhCiu.dls-1n7v84y' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:15:04,931 INFO Unable to locate 'PRODUCT IMAGE' with 'css' selector 'span.D1B50 img' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:15:38,804 INFO Unable to locate 'BRAND NAME' with 'css' selector 'a.WMXkS span' in URL 'https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101': Element not found in the webpage
+2023-04-19 11:15:38,825 INFO Unable to locate 'PRODUCT NAME' with 'css' selector '//div[@id='product-page-product-title-lockup']//h1[@class='dls-t8nrr7']' in URL 'https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101': Element not found in the webpage
+2023-04-19 11:15:38,845 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector '.PLdP6.GmKV9.KCp6h.IHuaj.QkVyF .ggbBg.y3xFi .qHz0a.EhCiu.dls-1n7v84y' in URL 'https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101': Element not found in the webpage
+2023-04-19 11:15:38,861 INFO Unable to locate 'PRODUCT IMAGE' with 'css' selector 'span.D1B50 img' in URL 'https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101': Element not found in the webpage
+2023-04-19 11:16:50,255 INFO Unable to locate 'BRAND NAME' with 'css' selector 'a.WMXkS span' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:16:50,283 INFO Unable to locate 'PRODUCT NAME' with 'css' selector '//div[@id='product-page-product-title-lockup']//h1[@class='dls-t8nrr7']' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:16:50,309 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector '.PLdP6.GmKV9.KCp6h.IHuaj.QkVyF .ggbBg.y3xFi .qHz0a.EhCiu.dls-1n7v84y' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:16:50,328 INFO Unable to locate 'PRODUCT IMAGE' with 'css' selector 'span.D1B50 img' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 11:20:35,311 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x5624ad2a7d93 <unknown>
+#1 0x5624ad0762d7 <unknown>
+#2 0x5624ad0b2caa <unknown>
+#3 0x5624ad0b2db1 <unknown>
+#4 0x5624ad0f08f4 <unknown>
+#5 0x5624ad0d661d <unknown>
+#6 0x5624ad0ee619 <unknown>
+#7 0x5624ad0d6353 <unknown>
+#8 0x5624ad0a5e40 <unknown>
+#9 0x5624ad0a7038 <unknown>
+#10 0x5624ad2fb8be <unknown>
+#11 0x5624ad2ff8f0 <unknown>
+#12 0x5624ad2dff90 <unknown>
+#13 0x5624ad300b7d <unknown>
+#14 0x5624ad2d1578 <unknown>
+#15 0x5624ad325348 <unknown>
+#16 0x5624ad3254d6 <unknown>
+#17 0x5624ad33f341 <unknown>
+#18 0x7ff471e94b43 <unknown>
+
+2023-04-19 11:22:22,220 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x564e79591d93 <unknown>
+#1 0x564e793602d7 <unknown>
+#2 0x564e7939ccaa <unknown>
+#3 0x564e7939cdb1 <unknown>
+#4 0x564e793da8f4 <unknown>
+#5 0x564e793c061d <unknown>
+#6 0x564e793d8619 <unknown>
+#7 0x564e793c0353 <unknown>
+#8 0x564e7938fe40 <unknown>
+#9 0x564e79391038 <unknown>
+#10 0x564e795e58be <unknown>
+#11 0x564e795e98f0 <unknown>
+#12 0x564e795c9f90 <unknown>
+#13 0x564e795eab7d <unknown>
+#14 0x564e795bb578 <unknown>
+#15 0x564e7960f348 <unknown>
+#16 0x564e7960f4d6 <unknown>
+#17 0x564e79629341 <unknown>
+#18 0x7ff4e7a94b43 <unknown>
+
+2023-04-19 11:23:30,342 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x55cae1cded93 <unknown>
+#1 0x55cae1aad2d7 <unknown>
+#2 0x55cae1ae9caa <unknown>
+#3 0x55cae1ae9db1 <unknown>
+#4 0x55cae1b278f4 <unknown>
+#5 0x55cae1b0d61d <unknown>
+#6 0x55cae1b25619 <unknown>
+#7 0x55cae1b0d353 <unknown>
+#8 0x55cae1adce40 <unknown>
+#9 0x55cae1ade038 <unknown>
+#10 0x55cae1d328be <unknown>
+#11 0x55cae1d368f0 <unknown>
+#12 0x55cae1d16f90 <unknown>
+#13 0x55cae1d37b7d <unknown>
+#14 0x55cae1d08578 <unknown>
+#15 0x55cae1d5c348 <unknown>
+#16 0x55cae1d5c4d6 <unknown>
+#17 0x55cae1d76341 <unknown>
+#18 0x7f3d88e94b43 <unknown>
+
+2023-04-19 11:25:20,262 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x55e752784d93 <unknown>
+#1 0x55e7525532d7 <unknown>
+#2 0x55e75258fcaa <unknown>
+#3 0x55e75258fdb1 <unknown>
+#4 0x55e7525cd8f4 <unknown>
+#5 0x55e7525b361d <unknown>
+#6 0x55e7525cb619 <unknown>
+#7 0x55e7525b3353 <unknown>
+#8 0x55e752582e40 <unknown>
+#9 0x55e752584038 <unknown>
+#10 0x55e7527d88be <unknown>
+#11 0x55e7527dc8f0 <unknown>
+#12 0x55e7527bcf90 <unknown>
+#13 0x55e7527ddb7d <unknown>
+#14 0x55e7527ae578 <unknown>
+#15 0x55e752802348 <unknown>
+#16 0x55e7528024d6 <unknown>
+#17 0x55e75281c341 <unknown>
+#18 0x7f8de1694b43 <unknown>
+
+2023-04-19 11:25:49,513 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x55bf72640d93 <unknown>
+#1 0x55bf7240f2d7 <unknown>
+#2 0x55bf7244bcaa <unknown>
+#3 0x55bf7244bdb1 <unknown>
+#4 0x55bf724898f4 <unknown>
+#5 0x55bf7246f61d <unknown>
+#6 0x55bf72487619 <unknown>
+#7 0x55bf7246f353 <unknown>
+#8 0x55bf7243ee40 <unknown>
+#9 0x55bf72440038 <unknown>
+#10 0x55bf726948be <unknown>
+#11 0x55bf726988f0 <unknown>
+#12 0x55bf72678f90 <unknown>
+#13 0x55bf72699b7d <unknown>
+#14 0x55bf7266a578 <unknown>
+#15 0x55bf726be348 <unknown>
+#16 0x55bf726be4d6 <unknown>
+#17 0x55bf726d8341 <unknown>
+#18 0x7ff88d094b43 <unknown>
+
+2023-04-19 13:46:50,787 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x55d326d37d93 <unknown>
+#1 0x55d326b062d7 <unknown>
+#2 0x55d326b42caa <unknown>
+#3 0x55d326b42db1 <unknown>
+#4 0x55d326b808f4 <unknown>
+#5 0x55d326b6661d <unknown>
+#6 0x55d326b7e619 <unknown>
+#7 0x55d326b66353 <unknown>
+#8 0x55d326b35e40 <unknown>
+#9 0x55d326b37038 <unknown>
+#10 0x55d326d8b8be <unknown>
+#11 0x55d326d8f8f0 <unknown>
+#12 0x55d326d6ff90 <unknown>
+#13 0x55d326d90b7d <unknown>
+#14 0x55d326d61578 <unknown>
+#15 0x55d326db5348 <unknown>
+#16 0x55d326db54d6 <unknown>
+#17 0x55d326dcf341 <unknown>
+#18 0x7f8a53094b43 <unknown>
+
+2023-04-19 13:49:00,316 ERROR Scrapying failed to send a valid response for https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101 
+Message: 
+Stacktrace:
+#0 0x55e3a457fd93 <unknown>
+#1 0x55e3a434e2d7 <unknown>
+#2 0x55e3a438acaa <unknown>
+#3 0x55e3a438adb1 <unknown>
+#4 0x55e3a43c88f4 <unknown>
+#5 0x55e3a43ae61d <unknown>
+#6 0x55e3a43c6619 <unknown>
+#7 0x55e3a43ae353 <unknown>
+#8 0x55e3a437de40 <unknown>
+#9 0x55e3a437f038 <unknown>
+#10 0x55e3a45d38be <unknown>
+#11 0x55e3a45d78f0 <unknown>
+#12 0x55e3a45b7f90 <unknown>
+#13 0x55e3a45d8b7d <unknown>
+#14 0x55e3a45a9578 <unknown>
+#15 0x55e3a45fd348 <unknown>
+#16 0x55e3a45fd4d6 <unknown>
+#17 0x55e3a4617341 <unknown>
+#18 0x7f309ce94b43 <unknown>
+
+2023-04-19 13:57:55,785 INFO Unable to locate 'PRODUCT IMAGE' with 'css' selector 'span.D1B50 img' in URL 'https://www.nordstrom.com/s/nike-nike-air-force-1-shadow-sneaker-women/6586297?origin=keywordsearch-personalizedsort&breadcrumb=Home%2FAll%20Results&color=101': Element not found in the webpage
+2023-04-19 14:12:41,697 INFO Unable to locate 'BRAND NAME' with 'css' selector 'a.WMXkS span' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 14:12:41,732 INFO Unable to locate 'PRODUCT NAME' with 'css' selector '//div[@id='product-page-product-title-lockup']//h1[@class='dls-t8nrr7']' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-04-19 14:12:41,751 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector '.PLdP6.GmKV9.KCp6h.IHuaj.QkVyF .ggbBg.y3xFi .qHz0a.EhCiu.dls-1n7v84y' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-09-14 05:29:04,911 INFO Unable to locate 'BRAND NAME' with 'css' selector 'a.WMXkS span' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-09-14 05:29:04,988 INFO Unable to locate 'PRODUCT NAME' with 'css' selector '//div[@id='product-page-product-title-lockup']//h1[@class='dls-t8nrr7']' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-09-14 05:29:05,019 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector '.PLdP6.GmKV9.KCp6h.IHuaj.QkVyF .ggbBg.y3xFi .qHz0a.EhCiu.dls-1n7v84y' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage
+2023-09-14 05:29:05,047 INFO Unable to locate 'PRODUCT IMAGE' with 'css' selector 'span.D1B50 img' in URL 'https://siteclosed.nordstrom.com/invitation.html': Element not found in the webpage

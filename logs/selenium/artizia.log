@@ -1,0 +1,2 @@
+2023-09-14 02:28:15,478 INFO Unable to locate 'PRODUCT NAME' with 'css' selector 'h1.js-product-detail__product-name.f1.ttc.ttu-fr' in URL 'https://www.aritzia.com/intl/en/product/tnabutter%E2%84%A2-limit-zip-longsleeve/104196.html?dwvar_104196_color=30226': Element not found in the webpage
+2023-09-14 02:28:15,504 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector 'span.price-default span' in URL 'https://www.aritzia.com/intl/en/product/tnabutter%E2%84%A2-limit-zip-longsleeve/104196.html?dwvar_104196_color=30226': Element not found in the webpage

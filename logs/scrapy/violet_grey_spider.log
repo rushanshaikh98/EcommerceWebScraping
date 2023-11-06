@@ -1,0 +1,1 @@
+2023-09-14 05:37:11,785 INFO Unable to locate 'PRODUCT IMAGES' with 'css' selector 'div[data-test='thumbnail'] img::attr(srcset)' in URL 'https://www.violetgrey.com/en-us/shopping/maifanshi-makeup-color-base-18874135': Element not found in the webpage

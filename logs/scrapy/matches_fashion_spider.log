@@ -1,0 +1,2 @@
+2023-09-14 05:34:05,171 INFO Unable to locate 'BRAND NAME' with 'css' selector 'h1.chakra-heading.pdp-headline.css-183qeze a.chakra-link.css-xgrtoc *::text' in URL 'https://www.matchesfashion.com/products/1017-ALYX-9SM-Tricon-buckled-cotton-track-pants-1504754': Element not found in the webpage
+2023-09-14 05:34:05,173 INFO Unable to locate 'PRODUCT PRICE' with 'css' selector 'span.chakra-text.css-k1gaaj::text' in URL 'https://www.matchesfashion.com/products/1017-ALYX-9SM-Tricon-buckled-cotton-track-pants-1504754': Element not found in the webpage
